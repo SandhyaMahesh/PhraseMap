@@ -1,7 +1,6 @@
-# PhraseMap — Implementation Prototype (Assignment 5)
+# PhraseMap  Implementation Prototype (Assignment 5)
 
 **Team:** Caroline Begg, Sandy Mahesh, Sarah Mosalem  
-**Course:** HCI Studio — Fall 2025  
 **Mentor Meeting Date:** Tuesday, November 4, 2025  
 **YouTube Demo:** [https://youtu.be/dl8N_6LQeEs](https://youtu.be/dl8N_6LQeEs)  
 **Repository:** [https://github.com/SandhyaMahesh/PhraseMap](https://github.com/SandhyaMahesh/PhraseMap)
@@ -17,17 +16,14 @@ Built using **React Native** and **Expo**, PhraseMap integrates **Expo AV** for 
 
 ## Get Started
 
-1. Install dependencies
+1. Install dependencies -
+   bash
+   npm install   
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
+2. Start the app -
+   bash
    npx expo start
-   ```
+   
 Run on device
 Open Expo Go on your iPhone (download if not installed)
 Tap “Scan QR Code” and scan the QR code shown in your terminal or browser.
